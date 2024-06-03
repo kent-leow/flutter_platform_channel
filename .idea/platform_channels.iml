@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/basic_message_channel/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/basic_message_channel/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/basic_message_channel/build" />
+      <excludeFolder url="file://$MODULE_DIR$/event_channel/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/event_channel/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/event_channel/build" />
+      <excludeFolder url="file://$MODULE_DIR$/method_channel/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/method_channel/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/method_channel/build" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_channel_with_pigeon/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_channel_with_pigeon/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_channel_with_pigeon/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
