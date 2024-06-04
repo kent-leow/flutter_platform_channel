@@ -7,3 +7,4 @@ This is a simple example of how to use platform channels in Flutter.
 2. Method Channel
 3. Event Channel
 4. Method Channel with Pigeon
+5. Event Channel to get battery level with Rive as display animation
